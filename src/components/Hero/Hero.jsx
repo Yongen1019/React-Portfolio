@@ -3,7 +3,7 @@ import './Hero.css'
 
 const Hero = () => {
   return (
-    <section className="hero-container">
+    <section id="hero-container" className="hero-container">
         <div className="hero-content">
             <h2>Building Digital Experiences That Inspire</h2>
             <p>Passionate Frontend Developer | Transforming Ideas into Seamless and Visually Stunning Web Solutions</p>
